@@ -1,0 +1,27 @@
+{
+  "name": "javascript-leap-year",
+  "version": "1.0.0",
+  "description": "test driving in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikprzekop/javascript-leap-year.git"
+  },
+  "keywords": [
+    "TDD",
+    "testing",
+    "node",
+    "jest"
+  ],
+  "author": "Erik Przekop <erik@erikprzekop.com>",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@types/node": "^18.15.11"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
