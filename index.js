@@ -1,7 +1,7 @@
 'use strict'
 
 function isLeapYear(year) {
-    return false;
+    return true;
 }
 
 module.exports = {
